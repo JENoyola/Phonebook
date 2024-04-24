@@ -4,8 +4,11 @@ Esta es una aplicación simple de React Native que sirve como agenda telefónica
 
 # DEMO
 
-  ![](https://s3.ezgif.com/tmp/ezgif-3-f3c4b859b9.gif)
-  ![](https://s3.ezgif.com/tmp/ezgif-3-f3c4b859b9.gif)
+  ### ios
+  ![](https://github.com/JENoyola/Phonebook/blob/master/assets/screengifs/ios.gif)
+
+  ### android
+  ![](https://github.com/JENoyola/Phonebook/blob/master/assets/screengifs/android.gif)
 
 ## Características
 
